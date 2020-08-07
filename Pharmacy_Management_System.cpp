@@ -1,7 +1,5 @@
 //TMF 1434(Data structure and Algorithm
-//Assignment 1
-//Saifuddin Tipu(54398)
-//Rakibul Islam(55276)
+
 //Library
 #include <iostream>
 #include <stdlib.h>
